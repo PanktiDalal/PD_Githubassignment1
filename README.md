@@ -2,5 +2,5 @@
 
 ## Hello-World
 
-Hello, New in the world of GitHub
+Hello, New to the world of GitHub
   
